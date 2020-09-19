@@ -1,1 +1,2 @@
 # TestForWiseBits
+check
